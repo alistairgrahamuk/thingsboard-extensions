@@ -4,4 +4,5 @@
 
 export * from './alarm/public-api';
 export * from './example/public-api';
+export * from './haccp/public-api';
 export * from './map/public-api';
